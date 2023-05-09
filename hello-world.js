@@ -1,2 +1,1 @@
-console.log("Hello, world or Olá mundo!");
-
+console.log("Hello, world or Olá, mundo!");
